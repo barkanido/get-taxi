@@ -6,8 +6,5 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/data.priority-map "1.0.0"]
                  [com.taoensso/timbre "5.1.0"]]
-                 ;; [http-kit "2.5.0"]
-                 ;; [metosin/jsonista "0.2.7"]
-                 ;; [metosin/reitit "0.5.10"]]
   :repl-options {:init-ns get-taxi.core}
   :main get-taxi.core)
